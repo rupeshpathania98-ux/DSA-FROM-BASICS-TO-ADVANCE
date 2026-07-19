@@ -53,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
