@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -63,4 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0048-rotate-image) |
 | [0263-ugly-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0263-ugly-number) |
+| [0509-fibonacci-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
