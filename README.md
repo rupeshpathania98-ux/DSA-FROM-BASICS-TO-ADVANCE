@@ -81,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0560-subarray-sum-equals-k) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
