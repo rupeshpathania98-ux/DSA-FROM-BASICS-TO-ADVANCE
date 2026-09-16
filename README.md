@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0560-subarray-sum-equals-k) |
+| [0875-koko-eating-bananas](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0875-koko-eating-bananas) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0700-search-in-a-binary-search-tree](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/rupeshpathania98-ux/DSA-FROM-BASICS-TO-ADVANCE/tree/master/0875-koko-eating-bananas) |
 ## Binary Tree
 |  |
 | ------- |
